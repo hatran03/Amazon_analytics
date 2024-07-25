@@ -32,3 +32,19 @@ Develop an interactive Power BI dashboard that provides insightful visualization
 5. Conclusion
 
 This project highlights the integration of Python for data cleaning, SQL for database management, and Power BI for dashboard visualization in analyzing Amazon's operational data. By leveraging these tools effectively, we aim to empower stakeholders with actionable insights into Amazon's business operations and performance metrics.
+
+![image](https://github.com/user-attachments/assets/b9a8d35b-8c44-444a-a2b2-e1eef196e62c)
+
+
+![image](https://github.com/user-attachments/assets/d9d97b07-6a59-48d3-8905-739d0a21da2f)
+
+
+![image](https://github.com/user-attachments/assets/5bfccee9-5c64-4597-817a-bbeb010e66c2)
+
+
+![image](https://github.com/user-attachments/assets/3cf6ab98-b251-445c-807e-d2cafd0ecb56)
+
+
+
+
+
